@@ -1,10 +1,10 @@
-package com.paywise.paywise;
+package com.oneurl.oneurl;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PaywiseApplicationTests {
+class OneUrlApplicationTests {
 
 	@Test
 	void contextLoads() {
